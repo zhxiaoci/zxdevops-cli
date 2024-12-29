@@ -6,6 +6,11 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "keywords": [
+        "devops",
+        "cli",
+        "yaml"
+    ],
     "bin": "bin/entry",
     "author": "zxd",
     "License": "ISC",
