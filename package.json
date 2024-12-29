@@ -10,7 +10,8 @@
         "devops",
         "cli",
         "yaml",
-        "部署"
+        "部署",
+        "脚手架"
     ],
     "bin": "bin/entry",
     "author": "zxd",
