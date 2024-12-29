@@ -9,7 +9,8 @@
     "keywords": [
         "devops",
         "cli",
-        "yaml"
+        "yaml",
+        "部署"
     ],
     "bin": "bin/entry",
     "author": "zxd",
